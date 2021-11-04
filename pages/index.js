@@ -21,7 +21,7 @@ const Page = () => {
                         <Heading as="h2" variant="page-title">
                             Tiago Paiva
                         </Heading>
-                        <p>Frontend Developer with hearth and coffee</p>
+                        <p>Frontend Developer with heart and coffee</p>
                         <Link href="https://www.linkedin.com/in/tiagofnpaiva/" target="_blank">
                             <Button
                                 variant="ghost"
