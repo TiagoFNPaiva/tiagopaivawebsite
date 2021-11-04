@@ -26,13 +26,13 @@ const Main = ({ children, router }) => {
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="https://www.tiagofnpaiva.com" />
                 <meta property="og:title" content="Tiago Paiva - Website" />
-                <meta property="og:description" content="Frontend Developer with hearth and coffee" />
+                <meta property="og:description" content="Frontend Developer with heart and coffee" />
                 <meta property="og:image" content="/card.png" />
                 <meta property="og:site_name" content="Tiago Paiva's Website" />
                 <meta property="twitter:card" content="summary_large_image" />
                 <meta property="twitter:url" content="https://www.tiagofnpaiva.com" />
                 <meta property="twitter:title" content="Tiago Paiva - Website" />
-                <meta property="twitter:description" content="Frontend Developer with hearth and coffee" />
+                <meta property="twitter:description" content="Frontend Developer with heart and coffee" />
                 <meta property="twitter:image" content="/card.png" />
 
 
