@@ -46,7 +46,7 @@ const Page = () => {
                         About
                     </Heading>
                     <Paragraph>
-                        Hello there! My name is Tiago Paiva borned in Porto, Portugal, in 1990 and I am a
+                        Hello there! My name is Tiago Paiva born in Porto, Portugal, in 1990 and I am a
                         Frontend Developer. I always was passionate about everything tech related, from
                         computers to the most tiny things as microchips but since my midteens what started
                         has an hobby, coding, has become one of my life goals.
